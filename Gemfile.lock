@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/hanklords/flickraw.git
+  revision: 6a5fb7acdfccf06d176de6be49b50812781f0efa
+  specs:
+    flickraw (0.9.3)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.1.1)
+      multi_json (~> 1.0)
+    i18n (0.6.0)
+    multi_json (1.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport
+  flickraw!
+  i18n
